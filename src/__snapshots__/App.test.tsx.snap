@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Card Page should validate APP Should validate snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="App"
+    >
+      <main
+        class="homeContainer"
+      >
+        <section
+          class="home"
+        >
+          <h2
+            class="margin"
+          >
+            Welcome to LEVO article
+          </h2>
+          <p
+            class="margin"
+          >
+            Virgin Orbit’s LauncherOne and its 747 carrier aircraft “Cosmic Girl” have launched the US Defense Department’s STP-27VPB mission along with three commercial satellites. The launch occurred on Thursday, January 13 at approximately 2:51 PM PST (22:51 UTC). Cosmic Girl took off from the Mojave Air and Space Port before flying out to the launch zone near the Channel Islands off the southern California coast.
+          </p>
+          <section
+            class="cardContainer"
+          />
+          <button
+            class="loadMore margin"
+            disabled=""
+          >
+            Load More
+          </button>
+        </section>
+      </main>
+    </div>
+  </div>
+</body>
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Card component Should validate snapshot 1`] = `
+<body>
+  <div>
+    <section
+      class="cardItem"
+      data-testid="cardItem"
+    >
+      <span>
+        6/1/2022
+      </span>
+      <section>
+        <h4 />
+        <p
+          class="summary"
+        >
+          summary
+        </p>
+      </section>
+      <button
+        class="readMoreButton"
+      >
+        Read More
+      </button>
+    </section>
+  </div>
+</body>
+`;

@@ -1,0 +1,30 @@
+.cardItem {
+  width: calc(100% / 3 - 20px);
+  height: 350px;
+  border: 1px solid gray;
+  background-color: rgb(190, 180, 180);
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 10px;
+  text-overflow: ellipsis;
+  position: relative;
+  text-align: left;
+}
+
+.summary {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.readMore {
+  overflow: inherit;
+  -webkit-line-clamp: inherit;
+}
+.readMoreButton {
+  position: absolute;
+  /* margin: auto; */
+  bottom: 10px;
+  /* right: 79%; */
+  left: 21px;
+}

@@ -1,3 +1,18 @@
+### `Prerequisite`
+
+- Node.
+- NPM.
+
+### `Tech`
+
+- Developed web application in React library using tsx.
+- React version 17+
+- TS and CSS for components and design.
+- Jest for Unit testing.
+- Used function components to render the UI
+- used React hooks to handle life cycle events.
+- used article endpoints from 'https://api.spaceflightnewsapi.net/v3/documentation'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

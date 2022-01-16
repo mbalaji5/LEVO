@@ -1,0 +1,11 @@
+.cardContainer {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: center;
+}
+.home {
+  text-align: left;
+}
+.margin {
+  margin: 10px;
+}
